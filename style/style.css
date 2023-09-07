@@ -6,15 +6,15 @@ body{
     display: flex;
     justify-content: center;
     background-color: #EAEAEA;
+    
 }
 .conteudo-principal{
     border: solid 3px;
     border-color: red;
-    width: 600px;
-    height: 1000px;
+    width: 700px;
+    height: 900px;
     font-family: 'Krona One', sans-serif;
-
-
+    
 }
 .bordas-red{
     justify-content: space-between;
@@ -29,7 +29,7 @@ body{
     justify-content: space-between;
     color: #fff;
     height: 40px;
-    font-size: 20px;
+    font-size: 23px;
     display: flex;
     align-items: center;
     
@@ -44,12 +44,12 @@ body{
 .data{
     font-size: 17px;
     color: #EB3134;
-    display: flex;
-    justify-content: flex-end;
+
 }
+
 .n{
-    display: flex;
-    justify-content: end;
+    
+    
 }
 .espaco{
     justify-content: center;
@@ -67,6 +67,9 @@ body{
 .pontos-yellow{
     color: #FFCC01 ;
 }
-.conteudo-principal-informacoes{
-
+.conteudo-principal-informacoes p{
+    
+}
+.pontos-brancos{
+    color: #EAEAEA;
 }
